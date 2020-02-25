@@ -128,3 +128,4 @@ Then, you can just display them into HTML without any *ngIf statements ```( *ngI
 ```
 ###### Reference
 https://dzone.com/articles/understanding-angular-route-resolvers-by-example
+https://github.com/atheodosiou/angular-route-resolvers
